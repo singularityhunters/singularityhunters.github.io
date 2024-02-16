@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>lakehope &#8211; singularity hunters</title>
-	<atom:link href="http://10.147.19.82/wp_singularity/author/lakehope/feed/?simply_static_page=1196" rel="self" type="application/rss+xml" />
-	<link></link>
+	<title>lakehope, Autor w serwisie singularity hunters</title>
+	<atom:link href="http://10.147.19.82/wp_singularity/author/lakehope/feed/?simply_static_page=1438" rel="self" type="application/rss+xml" />
+	<link>/author/lakehope/</link>
 	<description></description>
 	<lastBuildDate>Sat, 27 Jan 2024 10:17:15 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -29,9 +29,12 @@
 				<category><![CDATA[Bez kategorii]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Witamy w WordPressie. To jest twój pierwszy wpis. Edytuj go lub usuń, a następnie zacznij pisać!]]></description>
+					<description><![CDATA[<p>Witamy w WordPressie. To jest twój pierwszy wpis. Edytuj go lub usuń, a następnie zacznij pisać!</p>
+<p>Artykuł <a href="/witaj-swiecie/">Witaj, świecie!</a> pochodzi z serwisu <a href="">singularity hunters</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Witamy w WordPressie. To jest twój pierwszy wpis. Edytuj go lub usuń, a następnie zacznij pisać!</p>
+<p>Artykuł <a href="/witaj-swiecie/">Witaj, świecie!</a> pochodzi z serwisu <a href="">singularity hunters</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/witaj-swiecie/feed/</wfw:commentRss>
@@ -49,9 +52,12 @@
 				<category><![CDATA[Bez kategorii]]></category>
 		<guid isPermaLink="false">http://10.147.19.82:8080/wordpress%20singularity/?p=1</guid>
 
-					<description><![CDATA[Witamy w WordPressie. To jest twój pierwszy wpis. Edytuj go lub usuń, a następnie zacznij pisać!]]></description>
+					<description><![CDATA[<p>Witamy w WordPressie. To jest twój pierwszy wpis. Edytuj go lub usuń, a następnie zacznij pisać!</p>
+<p>Artykuł <a href="/witaj-swiecie-2/">Witaj, świecie!</a> pochodzi z serwisu <a href="">singularity hunters</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Witamy w WordPressie. To jest twój pierwszy wpis. Edytuj go lub usuń, a następnie zacznij pisać!</p>
+<p>Artykuł <a href="/witaj-swiecie-2/">Witaj, świecie!</a> pochodzi z serwisu <a href="">singularity hunters</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/witaj-swiecie-2/feed/</wfw:commentRss>
